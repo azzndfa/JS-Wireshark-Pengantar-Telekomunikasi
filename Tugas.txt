@@ -1,0 +1,16 @@
+Throughput = Paket data yang diterima / Lama Pengamatan
+           = 20364785 bytes / 158,305 s
+           = 128642,421 bytes
+           = 1,029
+Rata rata delay = Total delay / Total paket yang diterima
+                = 158,305 sec / 25966
+                = 0,0060 sec
+                = 6 ms
+Jitter = Total variasi delay / (Total paket diterima – 1)
+       = 9 / 25965
+       = 0,0003466 s
+       = 0,3466 m
+Packet Loss = (26128 – 24454) x 100% / 26128
+            = 6,407%
+
+
